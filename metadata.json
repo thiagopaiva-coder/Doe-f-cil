@@ -1,0 +1,6 @@
+{
+  "name": "DoeFácil",
+  "description": "Plataforma moderna e segura de arrecadação de doações financeiras com controle administrativo e visual glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
